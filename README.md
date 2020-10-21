@@ -1,2 +1,5 @@
-# cupnfish.github.io
-my blog
+# CupNfish
+
+### My blog
+
+https://cupnfish.github.io/
